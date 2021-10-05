@@ -3,7 +3,7 @@ Saludos!
 esto va para github.com
 esperemos ver esto en la pagina, luego de los comandos apropiados
 
-Ing. Andres Campos
+Ingeniero Andres Campos
 
 
 pruebas github
